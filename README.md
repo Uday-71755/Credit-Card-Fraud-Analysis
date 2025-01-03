@@ -1,2 +1,2 @@
-# Credit-Card-Fraud-Analysis
-Analyzing the credit card frauds using ML algorithm Linear Regression.
+# Credit Crad Fraud Analysis
+ Analysing the credit frauds using the ML algorithm Linear Regression
